@@ -24,12 +24,12 @@ const ProjectsSection = () => {
     },
 
     {
-      title: "Weather Dashboard",
-      description: "A beautiful weather application with location-based forecasts, interactive maps, and detailed weather analytics.",
+      title: "Portfolio Website",
+      description: "A personal portfolio website showcasing projects, skills, and professional work. Built with modern web technologies for a responsive and interactive user experience.",
       image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
-      tech: ["Vue.js", "D3.js", "Weather API", "Tailwind"],
-      github: "https://github.com",
-      live: "https://example.com",
+      tech: ["React", "Vite", "Tailwind CSS", "TypeScript"],
+      github: "https://github.com/anthonyulrichkamdoummoafo/Portfolio",
+      live: "https://portfolio-5m34.onrender.com/",
       featured: false
     },
     {
