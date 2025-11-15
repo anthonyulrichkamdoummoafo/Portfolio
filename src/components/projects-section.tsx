@@ -10,7 +10,7 @@ const ProjectsSection = () => {
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
       tech: ["React", "Node.js", "PostgreSQL", "Supabase", "Tailwind CSS"],
       github: "https://github.com/anthonyulrichkamdoummoafo/SMS",
-      live: "https://school-management-sy-d63r.bolt.host/",
+      live: "https://sms-jg8a.onrender.com/",
       featured: true
     },
     {
